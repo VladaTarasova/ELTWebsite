@@ -1,0 +1,16 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    min-height: 100vh;
+    background-color: #3D3D3D;
+    background-image: url('../../public/static/img/radial-gradient-bg.svg'), 
+                      url('../../public/static/img/radial-gradient-bg.svg'),
+                      url('../../public/static/img/radial-gradient-bg.svg');
+    background-repeat: no-repeat, 
+                       no-repeat,
+                       no-repeat;
+    background-position: 0 top, 
+                         right 0px top 300px,
+                         0 bottom;  
+}

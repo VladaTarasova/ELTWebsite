@@ -1,0 +1,33 @@
+.header {
+    width: 100vw;
+    background: linear-gradient(90deg, #C92C2D -9%, #3D3D3D 111%);
+    
+    &__nav {
+        min-height: 80px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        color: #ffffff;
+    }
+
+    &__logo {
+        min-width: 128px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    &__list {
+        min-width: 160px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    &__buttons {
+        min-width: 64px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}

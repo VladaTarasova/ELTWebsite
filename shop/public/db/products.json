@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "image": "",
+        "title": "Xiaomi Himo C20 Gray",
+        "desc": "Электровелосипед с запасом хода до 80 км",
+        "price": 60000
+    },
+    {
+        "id": "2",
+        "image": "", 
+        "title": "Xiaomi Himo C20 White",
+        "desc": "Электровелосипед с запасом хода до 80 км",
+        "price": 60000
+    },
+    {
+        "id": "3",
+        "image": "", 
+        "title": "Xiaomi Himo C26 White",
+        "desc": "Электровелосипед с запасом хода до 90 км",
+        "price": 100000
+    },
+    {
+        "id": "4",
+        "image": "", 
+        "title": "Xiaomi QiCycle Black",
+        "desc": "Электровелосипед с запасом хода до 90 км",
+        "price": 56000
+    },
+    {
+        "id": "5",
+        "image": "", 
+        "title": "CARCAM E-bike Black",
+        "desc": "Электровелосипед с запасом хода до 90 км",
+        "price": 34000
+    },
+    {
+        "id": "6",
+        "image": "", 
+        "title": "CARCAM E-bike White",
+        "desc": "Электровелосипед с запасом хода до 90 км",
+        "price": 34000
+    },
+    {
+        "id": "7",
+        "image": "", 
+        "title": "Xiaomi QiCycle White",
+        "desc": "Электровелосипед с запасом хода до 90 км",
+        "price": 100000
+    },
+    {
+        "id": "8",
+        "image": "", 
+        "title": "Xiaomi Himo C26 Gray",
+        "desc": "Электровелосипед с запасом хода до 80 км",
+        "price": 100000
+    },
+    {
+        "id": "9",
+        "image": "", 
+        "title": "Xiaomi Himo C26 Gray",
+        "desc": "Электровелосипед с запасом хода до 80 км",
+        "price": 100000
+    }
+]

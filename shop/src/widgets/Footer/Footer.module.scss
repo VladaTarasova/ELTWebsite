@@ -1,0 +1,28 @@
+.footer {
+    width: 100vw;
+    background:  #1E1717;
+    color: #ffffff;
+    
+    &__top {
+        min-height: 80px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    &__list {
+        min-width: 144px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    &__img {
+        width: 20px;
+        height: 20px;
+    }
+
+    &__bottom {
+        text-align: center;
+    }
+}
